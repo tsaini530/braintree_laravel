@@ -1,12 +1,10 @@
 {
     "name": "dbws/braintree",
     "description": "The Braintree PHP library provides integration access to the Braintree Gateway.",
-    "type":         "Library",
-    "version": "1.0.0-dev",
+    "type":         "Library",    
     "require": {
         "braintree/braintree_php": "^3.26"
-    },
-    "minimum-stability": "dev",
+    },    
     "autoload": {
         "psr-4": {
             "Dbws\\Braintree\\": "src"
