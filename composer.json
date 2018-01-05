@@ -2,6 +2,7 @@
     "name": "dbws/braintree",
     "description": "The Braintree PHP library provides integration access to the Braintree Gateway.",
     "type": "composer-plugin",
+    "version": "1.0.0",
     "require": {
         "braintree/braintree_php": "^3.26"
     },
